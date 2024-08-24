@@ -6,7 +6,7 @@
 
 ## Premiers pas
 
-> Un peu de contexte : mon voyage en Corée du Sud est précédé par un autre voyage de deux semaines en Chine, d'où le titre "retour à la civilisation". Si vous voulez en apprendre plus sur ce voyage [cliquez ici (Rédaction du blog en cours, lien non-fonctionnel)]().
+> Un peu de contexte : mon voyage en Corée du Sud est précédé par un autre voyage de deux semaines en Chine, d'où le titre "retour à la civilisation". Si vous voulez en apprendre plus sur ce voyage [cliquez ici (Rédaction du blog en cours, lien non-fonctionnel)](premier-jour-retour-a-la-civilisation.md).
 
 <!-- Edit le lien plus haut -->
 
@@ -41,6 +41,6 @@ Il est à peu près 20 h, je me décide à sortir pour aller chercher une carte 
 
 C'est ainsi que s'achève cette journée, ou plutôt soirée à Séoul. Rien de bien intéressant au final, seulement quelques péripéties par lesquelles on doit souvent passer lorsqu'on se retrouve dans un pays à l'autre bout du monde.
 
-Si vous souhaitez continuer à suivre mes aventures [cliquez ici](deuxieme-jour) pour découvrir les prochaines aventures de **Boris en Corée™**.
+Si vous souhaitez continuer à suivre mes aventures [cliquez ici](deuxieme-jour.md) pour découvrir les prochaines aventures de **Boris en Corée™**.
 
 <!-- Edit le lien plus haut -->
