@@ -41,6 +41,4 @@ Il est à peu près 20 h, je me décide à sortir pour aller chercher une carte 
 
 C'est ainsi que s'achève cette journée, ou plutôt soirée à Séoul. Rien de bien intéressant au final, seulement quelques péripéties par lesquelles on doit souvent passer lorsqu'on se retrouve dans un pays à l'autre bout du monde.
 
-Si vous souhaitez continuer à suivre mes aventures [cliquez ici](deuxieme-jour.md) pour découvrir les prochaines aventures de **Boris en Corée™**.
-
-<!-- Edit le lien plus haut -->
+Si vous le souhaitez, [cliquez ici](deuxieme-jour-visite-de-seoul.md) pour découvrir les prochaines aventures de **Boris en Corée™**.
