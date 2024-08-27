@@ -1,6 +1,6 @@
 # Boris-in-Korea
 
-> [!NOTE]
+> ⚠⚠⚠
 > Nouvelle aventure disponible ! [Troisième jour : welcome to Daejeon (대전)](troisieme-jour-welcome-to-daejeon.md)
 
 Bonjour !
