@@ -16,4 +16,4 @@ Fatigué, je décide de rentrer. Il faut donc que je me confronte au métro. J'e
 
 Sur le retour, je passe prendre des nouilles dans un Seven Eleven, ce qui fera office de dîner.
 
-C'est ainsi que s'achève cette deuxième journée passée à Séoul. Demain, [direction Daejeon !]()
+C'est ainsi que s'achève cette deuxième journée passée à Séoul. Demain, [direction Daejeon !](troisieme-jour-welcome-to-daejeon.md)
