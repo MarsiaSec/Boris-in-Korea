@@ -18,6 +18,5 @@ Le soir, je retrouve d'autres Français de l'INSA qui sont dans la même réside
 
 Et voilà qui s'achève cette première journée à Daejeon. Je n'ai pas eu l'occasion de beaucoup voir la ville, mais le campus est très accueillant. Mon colocataire n'est pour l'instant pas arrivé, je suis donc seul dans ma chambre, ce qui me convient bien 😃. En espérant qu'on s'entende bien.
 
-[Cliquez ici](troisieme-jour-welcome-to-daejeon.md) pour découvir la prochaine aventure.
+[Cliquez ici](day-in-the-life.md) pour découvir la prochaine aventure.
 
-<!-- Changer le lien-->
