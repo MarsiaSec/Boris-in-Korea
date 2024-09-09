@@ -13,9 +13,7 @@ Cliquez sur les liens ci-dessous pour découvrir des expériences de vie toutes 
 - [Deuxième jour : visite de Séoul](deuxieme-jour-visite-de-seoul.md)
 - [Troisième jour : welcome to Daejeon (대전)](troisieme-jour-welcome-to-daejeon.md)
 - [Day in the life (04/09/2024)](day-in-the-life.md)
-<!--
-- [Premier vrai resto Coréen](premier-vrai-resto-coreen.md)
--->
+<!--[Premier vrai resto Coréen](premier-vrai-resto-coreen.md)-->
 
 
 <!--
