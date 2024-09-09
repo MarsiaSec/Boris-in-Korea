@@ -1,7 +1,7 @@
 # Boris-in-Korea
 
 > ⚠⚠⚠
-> Plongez-vous dans une de mes journée type à travers [ce cours récit](day-in-the-life.md).
+> Plongez-vous dans une de mes journées type à travers [ce cours récit](day-in-the-life.md).
 
 Bonjour !
 
