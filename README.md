@@ -1,7 +1,7 @@
 # Boris-in-Korea
 
 > ⚠⚠⚠
-> Nouvelle aventure disponible ! [Troisième jour : welcome to Daejeon (대전)](troisieme-jour-welcome-to-daejeon.md)
+> Plongez-vous dans une de mes journée type à travers [ce cours récit](day-in-the-life.md).
 
 Bonjour !
 
